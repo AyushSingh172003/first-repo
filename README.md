@@ -1,4 +1,4 @@
 # first-repo
 This is my first repository
 <br>
-Author - Ayush Singh
+Author - Ayush Pramod Singh
